@@ -1,0 +1,18 @@
+h1{
+    border:5px solid red;
+    padding-left: 500px;
+    margin: top 50px;
+    border-radius: 40px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-bottom: 400px;
+    padding-left: 250px;
+    margin-top: 40px;
+    padding-top: 20px;
+    color: aqua;
+}
+body{
+    background-image: url(./img/wp5504315-4k-anime-nature-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
